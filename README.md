@@ -22,6 +22,8 @@ Skills:  REACT / JS / HTML / CSS
 
 bootstrap css3 express firebase git html5 javascript mongodb nodejs react tailwind
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nupurmithila44)](https://github.com/nupurmithila44/github-readme-stats)
+
 
 
 
