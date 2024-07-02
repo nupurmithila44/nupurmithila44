@@ -24,7 +24,7 @@ bootstrap css3 express firebase git html5 javascript mongodb nodejs react tailwi
 
 
 
-(https://github-readme-stats.vercel.app/api?username=nupurmithila44&show_icons=true)](https://github.com/nupurmithila44&show_icons=true/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nupurmithila44&show_icons=true)](https://github.com/nupurmithila44&show_icons=true/github-readme-stats)
 
 
 
